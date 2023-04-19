@@ -25,6 +25,6 @@ All data is from one continuous EEG measurement with the Emotiv EEG Neuroheadset
 ### Sample 10 - Best Parameters: {'C': 1, 'gamma': 'auto', 'kernel': 'rbf'} 
 ## Train Accuracy - Mean: 0.96, SD: 0.03
 ## Test Accuracy - Mean: 0.92, SD: 0.04
-![0351af30-89b0-4475-8afe-211916eea147](https://user-images.githubusercontent.com/110338556/233208677-c1f6ae11-dd04-4d57-b983-26a3c308f30e.png)
+![image](https://user-images.githubusercontent.com/110338556/233210814-52950d35-5a0e-4715-9953-ca0d9182f73c.png)
 
 *****************************************************************************************
